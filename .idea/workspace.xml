@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9752a8d6-b0a7-405e-a5fa-0a2be2078e68" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA in Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicProblems/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblems/Anagram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Anagram.executor": "Run",
     "Application.Armstrong.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.Fibonacci.executor": "Run",
@@ -68,7 +65,20 @@
     "onboarding.tips.debug.path": "C:/Users/venky/Desktop/DSA - ConceptWise/DSA in Java/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LeftRotateAnArrayByOnePlace">
+  <component name="RunManager" selected="Application.Anagram">
+    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicProblems.Anagram" />
+      <module name="DSA in Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicProblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LeftRotateAnArrayByKPlaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.LeftRotateAnArrayByKPlaces" />
       <module name="DSA in Java" />
@@ -121,26 +131,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicProblems.ReverseANumber" />
-      <module name="DSA in Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BasicProblems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Anagram" />
         <item itemvalue="Application.LeftRotateAnArrayByOnePlace" />
         <item itemvalue="Application.LeftRotateAnArrayByKPlaces" />
         <item itemvalue="Application.ReturnFirstMissingNumber" />
         <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.ReverseANumber" />
       </list>
     </recent_temporary>
   </component>
