@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9752a8d6-b0a7-405e-a5fa-0a2be2078e68" name="Changes" comment="">
+    <list default="true" id="9752a8d6-b0a7-405e-a5fa-0a2be2078e68" name="Changes" comment="I solved an incomplete problem that I couldn't finish during my first commit.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicProblems/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicProblems/Anagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/MaximumConsecutiveOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/MaximumConsecutiveOnes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +43,12 @@
     "Application.FindingAndPrintingPrimes.executor": "Run",
     "Application.LeftRotateAnArrayByKPlaces.executor": "Run",
     "Application.LeftRotateAnArrayByOnePlace.executor": "Run",
+    "Application.LongestSubArrayWithGivenSum.executor": "Run",
     "Application.MaxMinValueInArray.executor": "Run",
     "Application.MaxValueInArray.executor": "Run",
+    "Application.MaximumConsecutiveOnes.executor": "Run",
     "Application.MoveAllZeroesToEnd.executor": "Run",
+    "Application.NumberThatAppearOnlyOnce.executor": "Run",
     "Application.Palindrome.executor": "Run",
     "Application.PerfectNumber.executor": "Run",
     "Application.PrintingNPrimeNumbers.executor": "Run",
@@ -55,17 +58,22 @@
     "Application.ReverseAString.executor": "Run",
     "Application.ReverseAnArray.executor": "Run",
     "Application.SecondLargest.executor": "Run",
+    "Application.SubArrays.executor": "Run",
     "Application.SwapElementsInArray.executor": "Run",
     "Application.UnionOfTwoArrays.executor": "Run",
+    "Application.possibleSubArrays.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/venky/Desktop/DSA in Java",
-    "onboarding.tips.debug.path": "C:/Users/venky/Desktop/DSA - ConceptWise/DSA in Java/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/venky/Desktop/DSA - ConceptWise/DSA in Java/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Anagram">
+  <component name="RunManager" selected="Application.LongestSubArrayWithGivenSum">
     <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicProblems.Anagram" />
       <module name="DSA in Java" />
@@ -79,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeftRotateAnArrayByKPlaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.LeftRotateAnArrayByKPlaces" />
+    <configuration name="LongestSubArrayWithGivenSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.LongestSubArrayWithGivenSum" />
       <module name="DSA in Java" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeftRotateAnArrayByOnePlace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.LeftRotateAnArrayByOnePlace" />
+    <configuration name="MaximumConsecutiveOnes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.MaximumConsecutiveOnes" />
       <module name="DSA in Java" />
       <extension name="coverage">
         <pattern>
@@ -105,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicProblems.Palindrome" />
+    <configuration name="NumberThatAppearOnlyOnce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.NumberThatAppearOnlyOnce" />
       <module name="DSA in Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicProblems.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,8 +126,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReturnFirstMissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.ReturnFirstMissingNumber" />
+    <configuration name="possibleSubArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.possibleSubArrays" />
       <module name="DSA in Java" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestSubArrayWithGivenSum" />
+        <item itemvalue="Application.possibleSubArrays" />
+        <item itemvalue="Application.NumberThatAppearOnlyOnce" />
+        <item itemvalue="Application.MaximumConsecutiveOnes" />
         <item itemvalue="Application.Anagram" />
-        <item itemvalue="Application.LeftRotateAnArrayByOnePlace" />
-        <item itemvalue="Application.LeftRotateAnArrayByKPlaces" />
-        <item itemvalue="Application.ReturnFirstMissingNumber" />
-        <item itemvalue="Application.Palindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -150,6 +158,19 @@
       <option name="presentableId" value="Default" />
       <updated>1733129433526</updated>
     </task>
+    <task id="LOCAL-00001" summary="I solved an incomplete problem that I couldn't finish during my first commit.">
+      <option name="closed" value="true" />
+      <created>1733535256945</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733535256945</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="I solved an incomplete problem that I couldn't finish during my first commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="I solved an incomplete problem that I couldn't finish during my first commit." />
   </component>
 </project>
