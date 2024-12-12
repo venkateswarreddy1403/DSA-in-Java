@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9752a8d6-b0a7-405e-a5fa-0a2be2078e68" name="Changes" comment="I solved an incomplete problem that I couldn't finish during my first commit.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/MaximumConsecutiveOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/MaximumConsecutiveOnes.java" afterDir="false" />
-    </list>
+    <list default="true" id="9752a8d6-b0a7-405e-a5fa-0a2be2078e68" name="Changes" comment="I solved an incomplete problem that I couldn't finish during my first commit." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,45 +31,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Anagram.executor": "Run",
-    "Application.Armstrong.executor": "Run",
-    "Application.Factorial.executor": "Run",
-    "Application.Fibonacci.executor": "Run",
-    "Application.FindingAndPrintingPrimes.executor": "Run",
-    "Application.LeftRotateAnArrayByKPlaces.executor": "Run",
-    "Application.LeftRotateAnArrayByOnePlace.executor": "Run",
-    "Application.LongestSubArrayWithGivenSum.executor": "Run",
-    "Application.MaxMinValueInArray.executor": "Run",
-    "Application.MaxValueInArray.executor": "Run",
-    "Application.MaximumConsecutiveOnes.executor": "Run",
-    "Application.MoveAllZeroesToEnd.executor": "Run",
-    "Application.NumberThatAppearOnlyOnce.executor": "Run",
-    "Application.Palindrome.executor": "Run",
-    "Application.PerfectNumber.executor": "Run",
-    "Application.PrintingNPrimeNumbers.executor": "Run",
-    "Application.RemoveDuplicates.executor": "Run",
-    "Application.ReturnFirstMissingNumber.executor": "Run",
-    "Application.ReverseANumber.executor": "Run",
-    "Application.ReverseAString.executor": "Run",
-    "Application.ReverseAnArray.executor": "Run",
-    "Application.SecondLargest.executor": "Run",
-    "Application.SubArrays.executor": "Run",
-    "Application.SwapElementsInArray.executor": "Run",
-    "Application.UnionOfTwoArrays.executor": "Run",
-    "Application.possibleSubArrays.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/venky/Desktop/DSA in Java",
-    "onboarding.tips.debug.path": "C:/Users/venky/Desktop/DSA - ConceptWise/DSA in Java/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Anagram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Armstrong.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindingAndPrintingPrimes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeftRotateAnArrayByKPlaces.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeftRotateAnArrayByOnePlace.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestSubArrayWithGivenSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxMinValueInArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxValueInArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaximumConsecutiveOnes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MoveAllZeroesToEnd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberThatAppearOnlyOnce.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PerfectNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintingNPrimeNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReturnFirstMissingNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseANumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseAString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseAnArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecondLargest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwapElementsInArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UnionOfTwoArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.possibleSubArrays.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/venky/Desktop/DSA in Java&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/venky/Desktop/DSA - ConceptWise/DSA in Java/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.LongestSubArrayWithGivenSum">
     <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicProblems.Anagram" />
